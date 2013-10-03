@@ -1,0 +1,350 @@
+<NotepadPlus>
+    <Project name="seo_agency">
+        <Folder name="application">
+            <Folder name="cache">
+                <File name="application\cache\.htaccess" />
+                <File name="application\cache\index.html" />
+            </Folder>
+            <Folder name="config">
+                <Folder name="development">
+                    <File name="application\config\development\custom.php" />
+                </Folder>
+                <File name="application\config\autoload.php" />
+                <File name="application\config\config.php" />
+                <File name="application\config\constants.php" />
+                <File name="application\config\database.php" />
+                <File name="application\config\doctypes.php" />
+                <File name="application\config\foreign_chars.php" />
+                <File name="application\config\hooks.php" />
+                <File name="application\config\index.html" />
+                <File name="application\config\migration.php" />
+                <File name="application\config\mimes.php" />
+                <File name="application\config\profiler.php" />
+                <File name="application\config\routes.php" />
+                <File name="application\config\smileys.php" />
+                <File name="application\config\user_agents.php" />
+            </Folder>
+            <Folder name="controllers">
+                <File name="application\controllers\home.php" />
+                <File name="application\controllers\index.html" />
+            </Folder>
+            <Folder name="core">
+                <File name="application\core\index.html" />
+                <File name="application\core\MY_Controller.php" />
+            </Folder>
+            <Folder name="errors">
+                <File name="application\errors\error_404.php" />
+                <File name="application\errors\error_db.php" />
+                <File name="application\errors\error_general.php" />
+                <File name="application\errors\error_php.php" />
+                <File name="application\errors\index.html" />
+            </Folder>
+            <Folder name="helpers">
+                <File name="application\helpers\index.html" />
+                <File name="application\helpers\nav_helper.php" />
+            </Folder>
+            <Folder name="hooks">
+                <File name="application\hooks\index.html" />
+            </Folder>
+            <Folder name="language">
+                <Folder name="english">
+                    <File name="application\language\english\index.html" />
+                </Folder>
+            </Folder>
+            <Folder name="libraries">
+                <File name="application\libraries\index.html" />
+            </Folder>
+            <Folder name="logs">
+                <File name="application\logs\index.html" />
+            </Folder>
+            <Folder name="models">
+                <File name="application\models\index.html" />
+            </Folder>
+            <Folder name="third_party">
+                <File name="application\third_party\index.html" />
+            </Folder>
+            <Folder name="views">
+                <Folder name="pages">
+                    <File name="application\views\pages\home.php" />
+                </Folder>
+                <Folder name="template">
+                    <File name="application\views\template\basejs.php" />
+                    <File name="application\views\template\footer.php" />
+                    <File name="application\views\template\header.php" />
+                    <File name="application\views\template\main.php" />
+                    <File name="application\views\template\nav.php" />
+                    <File name="application\views\template\skeleton.php" />
+                    <File name="application\views\template\skeleton.php~" />
+                </Folder>
+                <File name="application\views\index.html" />
+            </Folder>
+            <File name="application\.htaccess" />
+            <File name="application\index.html" />
+        </Folder>
+        <Folder name="resources">
+            <Folder name="css">
+                <File name="resources\css\bootstrap-responsive.css" />
+                <File name="resources\css\bootstrap-responsive.min.css" />
+                <File name="resources\css\bootstrap.css" />
+                <File name="resources\css\bootstrap.min.css" />
+                <File name="resources\css\font-awesome-ie7.min.css" />
+                <File name="resources\css\font-awesome.css" />
+                <File name="resources\css\font-awesome.min.css" />
+                <File name="resources\css\global.css" />
+                <File name="resources\css\style.css" />
+                <File name="resources\css\style.min.css" />
+            </Folder>
+            <Folder name="fonts">
+                <File name="resources\fonts\fontawesome-webfont.eot" />
+                <File name="resources\fonts\fontawesome-webfont.svg" />
+                <File name="resources\fonts\fontawesome-webfont.ttf" />
+                <File name="resources\fonts\fontawesome-webfont.woff" />
+                <File name="resources\fonts\FontAwesome.otf" />
+                <File name="resources\fonts\LANENAR_-webfont.eot" />
+                <File name="resources\fonts\LANENAR_-webfont.svg" />
+                <File name="resources\fonts\LANENAR_-webfont.ttf" />
+                <File name="resources\fonts\LANENAR_-webfont.woff" />
+                <File name="resources\fonts\League_Gothic-webfont.eot" />
+                <File name="resources\fonts\League_Gothic-webfont.svg" />
+                <File name="resources\fonts\League_Gothic-webfont.ttf" />
+                <File name="resources\fonts\League_Gothic-webfont.woff" />
+                <File name="resources\fonts\museo_slab_300-webfont.eot" />
+                <File name="resources\fonts\museo_slab_300-webfont.ttf" />
+                <File name="resources\fonts\museo_slab_500-webfont.eot" />
+                <File name="resources\fonts\museo_slab_500-webfont.ttf" />
+                <File name="resources\fonts\proximanova-sbold-webfont.eot" />
+                <File name="resources\fonts\proximanova-sbold-webfont.ttf" />
+                <File name="resources\fonts\proximanova-webfont.eot" />
+                <File name="resources\fonts\proximanova-webfont.ttf" />
+            </Folder>
+            <Folder name="img">
+                <Folder name="ico">
+                    <File name="resources\img\ico\apple-touch-icon-114x114-precomposed.png" />
+                    <File name="resources\img\ico\apple-touch-icon-57x57-precomposed.png" />
+                    <File name="resources\img\ico\apple-touch-icon-72x72-precomposed.png" />
+                    <File name="resources\img\ico\apple-touch-icon-precomposed.png" />
+                    <File name="resources\img\ico\apple-touch-icon.png" />
+                    <File name="resources\img\ico\favicon.ico" />
+                </Folder>
+                <File name="resources\img\glyphicons-halflings-white.png" />
+                <File name="resources\img\glyphicons-halflings.png" />
+            </Folder>
+            <Folder name="js">
+                <Folder name="libs">
+                    <File name="resources\js\libs\jquery-1.10.2.js" />
+                    <File name="resources\js\libs\jquery-1.10.2.js~" />
+                    <File name="resources\js\libs\jquery-1.10.2.min.js" />
+                    <File name="resources\js\libs\jquery-1.10.2.min.js~" />
+                    <File name="resources\js\libs\modernizr-2.6.2-respond-1.1.0.min.js~" />
+                    <File name="resources\js\libs\modernizr-2.6.2.min.js" />
+                    <File name="resources\js\libs\underscore-1.5.0.js" />
+                    <File name="resources\js\libs\underscore-1.5.0.js~" />
+                    <File name="resources\js\libs\underscore-min-1.5.0.js" />
+                    <File name="resources\js\libs\underscore-min-1.5.0.js~" />
+                </Folder>
+                <File name="resources\js\bootstrap.js" />
+                <File name="resources\js\bootstrap.min.js" />
+                <File name="resources\js\plugins.js" />
+                <File name="resources\js\script.js" />
+            </Folder>
+        </Folder>
+        <Folder name="system">
+            <Folder name="core">
+                <File name="system\core\Benchmark.php" />
+                <File name="system\core\CodeIgniter.php" />
+                <File name="system\core\Common.php" />
+                <File name="system\core\Config.php" />
+                <File name="system\core\Controller.php" />
+                <File name="system\core\Exceptions.php" />
+                <File name="system\core\Hooks.php" />
+                <File name="system\core\index.html" />
+                <File name="system\core\Input.php" />
+                <File name="system\core\Lang.php" />
+                <File name="system\core\Loader.php" />
+                <File name="system\core\Model.php" />
+                <File name="system\core\Output.php" />
+                <File name="system\core\Router.php" />
+                <File name="system\core\Security.php" />
+                <File name="system\core\URI.php" />
+                <File name="system\core\Utf8.php" />
+            </Folder>
+            <Folder name="database">
+                <Folder name="drivers">
+                    <Folder name="cubrid">
+                        <File name="system\database\drivers\cubrid\cubrid_driver.php" />
+                        <File name="system\database\drivers\cubrid\cubrid_forge.php" />
+                        <File name="system\database\drivers\cubrid\cubrid_result.php" />
+                        <File name="system\database\drivers\cubrid\cubrid_utility.php" />
+                        <File name="system\database\drivers\cubrid\index.html" />
+                    </Folder>
+                    <Folder name="mssql">
+                        <File name="system\database\drivers\mssql\index.html" />
+                        <File name="system\database\drivers\mssql\mssql_driver.php" />
+                        <File name="system\database\drivers\mssql\mssql_forge.php" />
+                        <File name="system\database\drivers\mssql\mssql_result.php" />
+                        <File name="system\database\drivers\mssql\mssql_utility.php" />
+                    </Folder>
+                    <Folder name="mysql">
+                        <File name="system\database\drivers\mysql\index.html" />
+                        <File name="system\database\drivers\mysql\mysql_driver.php" />
+                        <File name="system\database\drivers\mysql\mysql_forge.php" />
+                        <File name="system\database\drivers\mysql\mysql_result.php" />
+                        <File name="system\database\drivers\mysql\mysql_utility.php" />
+                    </Folder>
+                    <Folder name="mysqli">
+                        <File name="system\database\drivers\mysqli\index.html" />
+                        <File name="system\database\drivers\mysqli\mysqli_driver.php" />
+                        <File name="system\database\drivers\mysqli\mysqli_forge.php" />
+                        <File name="system\database\drivers\mysqli\mysqli_result.php" />
+                        <File name="system\database\drivers\mysqli\mysqli_utility.php" />
+                    </Folder>
+                    <Folder name="oci8">
+                        <File name="system\database\drivers\oci8\index.html" />
+                        <File name="system\database\drivers\oci8\oci8_driver.php" />
+                        <File name="system\database\drivers\oci8\oci8_forge.php" />
+                        <File name="system\database\drivers\oci8\oci8_result.php" />
+                        <File name="system\database\drivers\oci8\oci8_utility.php" />
+                    </Folder>
+                    <Folder name="odbc">
+                        <File name="system\database\drivers\odbc\index.html" />
+                        <File name="system\database\drivers\odbc\odbc_driver.php" />
+                        <File name="system\database\drivers\odbc\odbc_forge.php" />
+                        <File name="system\database\drivers\odbc\odbc_result.php" />
+                        <File name="system\database\drivers\odbc\odbc_utility.php" />
+                    </Folder>
+                    <Folder name="pdo">
+                        <File name="system\database\drivers\pdo\index.html" />
+                        <File name="system\database\drivers\pdo\pdo_driver.php" />
+                        <File name="system\database\drivers\pdo\pdo_forge.php" />
+                        <File name="system\database\drivers\pdo\pdo_result.php" />
+                        <File name="system\database\drivers\pdo\pdo_utility.php" />
+                    </Folder>
+                    <Folder name="postgre">
+                        <File name="system\database\drivers\postgre\index.html" />
+                        <File name="system\database\drivers\postgre\postgre_driver.php" />
+                        <File name="system\database\drivers\postgre\postgre_forge.php" />
+                        <File name="system\database\drivers\postgre\postgre_result.php" />
+                        <File name="system\database\drivers\postgre\postgre_utility.php" />
+                    </Folder>
+                    <Folder name="sqlite">
+                        <File name="system\database\drivers\sqlite\index.html" />
+                        <File name="system\database\drivers\sqlite\sqlite_driver.php" />
+                        <File name="system\database\drivers\sqlite\sqlite_forge.php" />
+                        <File name="system\database\drivers\sqlite\sqlite_result.php" />
+                        <File name="system\database\drivers\sqlite\sqlite_utility.php" />
+                    </Folder>
+                    <Folder name="sqlsrv">
+                        <File name="system\database\drivers\sqlsrv\index.html" />
+                        <File name="system\database\drivers\sqlsrv\sqlsrv_driver.php" />
+                        <File name="system\database\drivers\sqlsrv\sqlsrv_forge.php" />
+                        <File name="system\database\drivers\sqlsrv\sqlsrv_result.php" />
+                        <File name="system\database\drivers\sqlsrv\sqlsrv_utility.php" />
+                    </Folder>
+                    <File name="system\database\drivers\index.html" />
+                </Folder>
+                <File name="system\database\DB.php" />
+                <File name="system\database\DB_active_rec.php" />
+                <File name="system\database\DB_cache.php" />
+                <File name="system\database\DB_driver.php" />
+                <File name="system\database\DB_forge.php" />
+                <File name="system\database\DB_result.php" />
+                <File name="system\database\DB_utility.php" />
+                <File name="system\database\index.html" />
+            </Folder>
+            <Folder name="fonts">
+                <File name="system\fonts\index.html" />
+                <File name="system\fonts\texb.ttf" />
+            </Folder>
+            <Folder name="helpers">
+                <File name="system\helpers\array_helper.php" />
+                <File name="system\helpers\captcha_helper.php" />
+                <File name="system\helpers\cookie_helper.php" />
+                <File name="system\helpers\date_helper.php" />
+                <File name="system\helpers\directory_helper.php" />
+                <File name="system\helpers\download_helper.php" />
+                <File name="system\helpers\email_helper.php" />
+                <File name="system\helpers\file_helper.php" />
+                <File name="system\helpers\form_helper.php" />
+                <File name="system\helpers\html_helper.php" />
+                <File name="system\helpers\index.html" />
+                <File name="system\helpers\inflector_helper.php" />
+                <File name="system\helpers\language_helper.php" />
+                <File name="system\helpers\number_helper.php" />
+                <File name="system\helpers\path_helper.php" />
+                <File name="system\helpers\security_helper.php" />
+                <File name="system\helpers\smiley_helper.php" />
+                <File name="system\helpers\string_helper.php" />
+                <File name="system\helpers\text_helper.php" />
+                <File name="system\helpers\typography_helper.php" />
+                <File name="system\helpers\url_helper.php" />
+                <File name="system\helpers\xml_helper.php" />
+            </Folder>
+            <Folder name="language">
+                <Folder name="english">
+                    <File name="system\language\english\calendar_lang.php" />
+                    <File name="system\language\english\date_lang.php" />
+                    <File name="system\language\english\db_lang.php" />
+                    <File name="system\language\english\email_lang.php" />
+                    <File name="system\language\english\form_validation_lang.php" />
+                    <File name="system\language\english\ftp_lang.php" />
+                    <File name="system\language\english\imglib_lang.php" />
+                    <File name="system\language\english\index.html" />
+                    <File name="system\language\english\migration_lang.php" />
+                    <File name="system\language\english\number_lang.php" />
+                    <File name="system\language\english\profiler_lang.php" />
+                    <File name="system\language\english\unit_test_lang.php" />
+                    <File name="system\language\english\upload_lang.php" />
+                </Folder>
+                <File name="system\language\index.html" />
+            </Folder>
+            <Folder name="libraries">
+                <Folder name="Cache">
+                    <Folder name="drivers">
+                        <File name="system\libraries\Cache\drivers\Cache_apc.php" />
+                        <File name="system\libraries\Cache\drivers\Cache_dummy.php" />
+                        <File name="system\libraries\Cache\drivers\Cache_file.php" />
+                        <File name="system\libraries\Cache\drivers\Cache_memcached.php" />
+                    </Folder>
+                    <File name="system\libraries\Cache\Cache.php" />
+                </Folder>
+                <Folder name="javascript">
+                    <File name="system\libraries\javascript\Jquery.php" />
+                </Folder>
+                <File name="system\libraries\Calendar.php" />
+                <File name="system\libraries\Cart.php" />
+                <File name="system\libraries\Driver.php" />
+                <File name="system\libraries\Email.php" />
+                <File name="system\libraries\Encrypt.php" />
+                <File name="system\libraries\Form_validation.php" />
+                <File name="system\libraries\Ftp.php" />
+                <File name="system\libraries\Image_lib.php" />
+                <File name="system\libraries\index.html" />
+                <File name="system\libraries\Javascript.php" />
+                <File name="system\libraries\Log.php" />
+                <File name="system\libraries\Migration.php" />
+                <File name="system\libraries\Pagination.php" />
+                <File name="system\libraries\Parser.php" />
+                <File name="system\libraries\Profiler.php" />
+                <File name="system\libraries\Session.php" />
+                <File name="system\libraries\Sha1.php" />
+                <File name="system\libraries\Table.php" />
+                <File name="system\libraries\Trackback.php" />
+                <File name="system\libraries\Typography.php" />
+                <File name="system\libraries\Unit_test.php" />
+                <File name="system\libraries\Upload.php" />
+                <File name="system\libraries\User_agent.php" />
+                <File name="system\libraries\Xmlrpc.php" />
+                <File name="system\libraries\Xmlrpcs.php" />
+                <File name="system\libraries\Zip.php" />
+            </Folder>
+            <File name="system\.htaccess" />
+            <File name="system\index.html" />
+        </Folder>
+        <File name=".htaccess" />
+        <File name="humans.txt" />
+        <File name="index.php" />
+        <File name="license.txt" />
+        <File name="README.md" />
+        <File name="robots.txt" />
+    </Project>
+</NotepadPlus>
